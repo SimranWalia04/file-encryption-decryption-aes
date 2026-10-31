@@ -1,0 +1,18 @@
+CIPHERSAFE — AES FILE ENCRYPTION TEST
+
+Project: File Encryption and Decryption using AES
+Encryption Algorithm: AES-256-GCM
+Key Derivation Function: PBKDF2-HMAC-SHA256
+
+PURPOSE
+This file is used to demonstrate the encryption and decryption functionality of the CipherSafe application.
+
+TEST MESSAGE
+This is a confidential sample message. The application should encrypt this content into an unreadable ciphertext file and restore the original text when the correct password is provided.
+
+EXPECTED RESULT
+1. Encryption creates a file with the .aes extension.
+2. Decryption with the correct password restores the original content.
+3. An incorrect password must not produce readable plaintext.
+
+END OF TEST FILE
