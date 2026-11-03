@@ -64,7 +64,7 @@ Keep your passwords private and use a strong password. Always keep a backup of i
 
 **Project developed by:**
 - **Samtajpreet Kaur**
-- **[Your Partner's Full Name]**
+- **[Simranjeet Kaur]**
 
 **Course:** B.Tech – Computer Science and Engineering (Cybersecurity)  
 **College:** Guru Nanak Dev Engineering College (GNDEC), Ludhiana  
